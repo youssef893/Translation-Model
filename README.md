@@ -16,7 +16,7 @@ the dataset is consist of 150,000 phrase pairs. i used 20000 for train and 10000
 
 # Results
 # BLEU SCORES
-Train: BLEU-1: 0.840214
+Train: BLEU-1: 0.840214 /n
        BLEU-2: 0.771045
        BLEU-3: 0.722561
        BLEU-4: 0.582174
